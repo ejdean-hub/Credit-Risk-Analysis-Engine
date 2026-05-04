@@ -1,4 +1,4 @@
-# Credit‑Risk‑Scorecard‑Engine
+# Credit‑Risk‑Analysis‑Engine
 A machine‑learning pipeline that trains a logistic‑regression PD model, converts PD into a standardized credit score, extracts a human‑readable scorecard, visualizes performance, and validates that manual scoring matches model scoring.
 
 ROC‑AUC: 0.866
