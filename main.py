@@ -328,7 +328,7 @@ plt.show()
 
 
 # ----------------------------------------------------------
-# Figure 4 — PD → Score calibration
+# Figure 4 — PD -> Score calibration
 # ----------------------------------------------------------
 
 score_range = np.linspace(300, 900, 500)
